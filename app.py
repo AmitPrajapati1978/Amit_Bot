@@ -158,8 +158,8 @@ st.markdown("""
     }
     
     /* Sidebar */
-    [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #1e3a8a 0%, #3730a3 100%);
+    python[data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #f3f4f6 0%, #e5e7eb 100%);
     }
     
     [data-testid="stSidebar"] .css-1d391kg {
